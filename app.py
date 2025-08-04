@@ -20,7 +20,11 @@ class App(customtkinter.CTk):
 
         self.title("Codeforces User Comparison")
         self.geometry("1280x720")
-        self.iconbitmap("codeforces.ico")
+        try:
+            self.iconbitmap(resource_path("codeforces.ico"))
+        except Exception:
+            # If icon fails to load, continue without it
+            pass
 
         self.grid_columnconfigure(0, weight=1)
         self.grid_rowconfigure(1, weight=1)
