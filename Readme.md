@@ -92,7 +92,7 @@ This project is open source. Please check the license file for more details.
 
 Ready to compare your Codeforces stats? Download the latest version:
 
-[![Download CF_Stat_Comparator.exe](https://img.shields.io/badge/Download-CF%20Stat%20Comparator-blue?style=for-the-badge&logo=download)](https://github.com/monowarulIslamShraban/CF_Stats_Comparator/releases/tag/v1.0.0)
+[![Download CF_Stat_Comparator.exe](https://img.shields.io/badge/Download-CF%20Stat%20Comparator-blue?style=for-the-badge&logo=download)](https://github.com/mi-shraban/CF_Stats_Comparator/releases/tag/v1.0.0)
 
 **File**: `CF_stat_comparator.exe`  
 **Size**: ~35MB  
