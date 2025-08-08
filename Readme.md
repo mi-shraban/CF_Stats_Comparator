@@ -1,6 +1,6 @@
 # Codeforces User Comparison Tool
 
-A desktop application that allows you to compare statistics between multiple Codeforces users side-by-side. Perfect for competitive programmers who want to analyze and compare their performance with friends, teammates, or rivals!
+This desktop application is Codeforces API wrapper that allows you to compare statistics between multiple Codeforces users side-by-side. Perfect for competitive programmers who want to analyze and compare their performance with friends, teammates, or rivals!
 
 ## Features
 
